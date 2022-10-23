@@ -1,0 +1,17 @@
+{
+  "name": "thats-joke",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "type": "module",
+  "description": "discord.js template bot just for nothing, but remember kids to use something else. ",
+  "repository": "https://github.com/remeeeek/thats-joke.git",
+  "author": "remeeeek",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.7",
+    "path": "^0.12.7"
+  }
+}
