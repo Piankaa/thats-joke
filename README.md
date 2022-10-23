@@ -1,5 +1,5 @@
 # thats-joke
-## All things in this repo are big joke
+## All things in this repo are big joke expect message at the bottom :]
 ### Don't take it too seriously.
 #### Libs: discord.js, mongoose, dotenv, path, fs
 
